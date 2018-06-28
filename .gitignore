@@ -1,0 +1,4 @@
+.DS_Store
+.py3
+__pycache__
+itchat.pkl
